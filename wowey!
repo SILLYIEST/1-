@@ -1,6 +1,6 @@
 !DOCTYPE HTML
 <Html:5>
-<title style="font-size: larger; color: fuchsia; font-family: cursive;">
+<title style="font-size: larger; color: fuchsia; font-family: cursive; background-image: '/workspaces/1-/dango.jpg';">
     Hello! How are you?
 </title>
 
